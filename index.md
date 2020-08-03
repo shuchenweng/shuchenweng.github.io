@@ -13,8 +13,6 @@
   </tr>
 </table>
 
-# Shuchen Weng
-
 ## Education
 - Doctor of Philosophy at Peking University, Beijing, China
 
