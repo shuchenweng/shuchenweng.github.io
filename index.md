@@ -3,10 +3,7 @@
     <td width="75%">
       <h1>Shuchen Weng</h1>
       <p><b>Doctoral candidate</b></p>
-      <p><b>Peking University</b></p>
-      <p><b>Department of Computer Science</b></p>
-      <p><b>National Engineering Laboratory for Video Technology</b></p>
-      <p><b>Camera Intelligence Group</b></p>
+      <p><b>Department of Computer Science, Peking University</b></p>
       <p><b>Advisor: Prof. Boxin Shi</b></p>
       <p><b>Email: shuchenweng[at]pku.edu.cn</b></p>
     </td>
