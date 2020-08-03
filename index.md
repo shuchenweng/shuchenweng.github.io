@@ -38,7 +38,7 @@
 - Shuchen Weng\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". Accepted by CVPR 2020.
 
 ### Human Action Recognition
-- Yanbo Fan, Shuchen Weng, Yong Zhang, Boxin Shi, Yi Zhang. "Context-Aware Cross-Attention for SkeletonBased Human Action Recognition". Accepted by ACCESS 2020.
+- Yanbo Fan, Shuchen Weng, Yong Zhang, Boxin Shi, Yi Zhang. "Context-Aware Cross-Attention for SkeletonBased Human Action Recognition". Accepted by Access 2020.
 
 - Shuchen Weng\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by ICASSP 2019.
 
