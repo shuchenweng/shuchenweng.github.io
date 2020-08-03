@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### Shuchen Weng
+I am pursuing the Ph.D. degree with the Camera Intelligence Group, Peking University, under the supervision of Prof. B. Shi.
 
-You can use the [editor on GitHub](https://github.com/shuchenweng/shuchenweng.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+Doctor of Philosophy at Peking University, Beijing, China
+        Advisors: Prof. Boxin Shi
+        Sept. 2019~Present, in National Engineering Laboratory for Video Technology, Department of Computer Science
+Bachelor of Engineering at Tianjin University,  Tianjin, China
+        Sept. 2015~Jul. 2019, in Dept. of Computer Software Engineering
+        
+### Professional Experiences
+Feb. 2019~Aug. 2019, Research intern at Peng Cheng Lab.
+Aug. 2018~Nov. 2018, Research intern at Tencent AI Lab.
+Mar. 2018~Jul. 2018, Automatic driving intern at China Automotive Technology&Research Center.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
+## Image and Video Synthesis
+Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020.
+Shuchen Weng*, Wenbo Li*, Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". Accepted by CVPR 2020.
+## Human Action Recognition
+Yanbo Fan, Shuchen Weng, Yong Zhang, Boxin Shi, Yi Zhang. "Context-Aware Cross-Attention for SkeletonBased Human Action Recognition". Accepted by ACCESS 2020.
+Shuchen Weng*, Wenbo Li*, Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by ICASSP 2019.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuchenweng/shuchenweng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Award
+Outstanding Undergraduate Student Award, by China Computer Federation.
