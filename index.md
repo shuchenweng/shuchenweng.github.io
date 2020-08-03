@@ -5,10 +5,12 @@ I am pursuing the Ph.D. degree with the Camera Intelligence Group, Peking Univer
 Doctor of Philosophy at Peking University, Beijing, China
 
 Advisors: Prof. Boxin Shi
-        Sept. 2019 ~ Present, in National Engineering Laboratory for Video Technology, Department of Computer Science
+
+Sept. 2019 ~ Present, in National Engineering Laboratory for Video Technology, Department of Computer Science
         
 Bachelor of Engineering at Tianjin University,  Tianjin, China
-        Sept. 2015 ~ Jul. 2019, in Dept. of Computer Software Engineering
+
+Sept. 2015 ~ Jul. 2019, in Dept. of Computer Software Engineering
         
 ### Professional Experiences
 Feb. 2019 ~ Aug. 2019, Research intern at Peng Cheng Lab.
