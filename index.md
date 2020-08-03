@@ -1,5 +1,19 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Shuchen Weng</h1>
+      <p><b>Doctoral candidate</b></p>
+      <p><b>Peking University</b></p>
+      <p><b>Email: shuchenweng[at]pku.edu.cn</b></p>
+      <p><b>I am pursuing the Ph.D. degree with the Camera Intelligence Group, Peking University, under the supervision of Prof. B. Shi.</b></p>
+    </td>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
 # Shuchen Weng
-I am pursuing the Ph.D. degree with the Camera Intelligence Group, Peking University, under the supervision of Prof. B. Shi.
 
 ## Education
 - Doctor of Philosophy at Peking University, Beijing, China
