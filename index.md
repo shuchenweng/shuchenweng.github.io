@@ -24,11 +24,11 @@
   Sept. 2015 ~ Jul. 2019, in Dept. of Computer Software Engineering
 
 ## Professional Experiences
-- Feb. 2019 ~ Aug. 2019, Research intern at Peng Cheng Lab.
+- Feb. 2019 ~ Aug. 2019, research intern at Peng Cheng AI Lab.
 
-- Aug. 2018 ~ Nov. 2018, Research intern at Tencent AI Lab.
+- Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
 
-- Mar. 2018 ~ Jul. 2018, Automatic driving intern at China Automotive Technology&Research Center.
+- Mar. 2018 ~ Jul. 2018, intern at China Automotive Technology&Research Center.
 
 ## Publications
 ### Image and Video Synthesis
