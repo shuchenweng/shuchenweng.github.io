@@ -4,7 +4,7 @@
       <h1>Shuchen Weng</h1>
       <p><b>PhD Student</b></p>
       <p><b>NELVT, Dept. of CS, Peking University</b></p>
-      <p><b>Team member of <a href="http://ci.idm.pku.edu.cn/">Camera Intelligence Group</a></b></p>
+      <p><b>Team Member of <a href="http://ci.idm.pku.edu.cn/">Camera Intelligence Group</a></b></p>
       <p><b>Email: shuchenweng[at]pku.edu.cn</b></p>
     </td>
     <td width="25%">
