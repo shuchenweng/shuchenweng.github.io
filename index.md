@@ -17,7 +17,7 @@
 
   Advisors: Prof. Boxin Shi
 
-  Sept. 2019 ~ Present, in National Engineering Laboratory for Video Technology, Department of Computer Science
+  Sept. 2019 ~ Present, in NELVT, Dept. of Computer Science
 
 - Bachelor of Engineering at Tianjin University,  Tianjin, China
 
