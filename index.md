@@ -31,6 +31,10 @@
 
 - Mar. 2018 ~ Jul. 2018, intern at China Automotive Technology&Research Center.
 
+## Services
+- Program committee member: CVPR, ICCV
+- Editor-in-chief at BAAI in the field of computer vision.
+
 ## Publications
 ### Image and Video Synthesis
 - Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020. [pdf comming soon]
