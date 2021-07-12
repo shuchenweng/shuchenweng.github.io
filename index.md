@@ -37,7 +37,7 @@
 
 ## Publications
 ### Image and Video Synthesis
-- Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020. [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540443.pdf)
+- Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020. [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540443.pdf)
 
 - Shuchen Weng\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". In CVPR 2020.[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf)
 
