@@ -14,7 +14,7 @@
 </table>
 
 ## Education
-- Phd student at Peking University, Beijing, China
+- Phd candidate at Peking University, Beijing, China
 
   Advisors: Prof. Boxin Shi
 
