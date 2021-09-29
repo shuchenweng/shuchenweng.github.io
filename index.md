@@ -22,7 +22,7 @@
 
 - Bachelor of Engineering at Tianjin University, Tianjin, China
 
-  Sept. 2015 ~ Jul. 2019, in Dept. of Computer Software Engineering
+  Sept. 2015 ~ Jul. 2019, in College of Intelligence and Computing
 
 ## Professional Experiences
 - Aug. 2019 ~ Now, research extern at Samsung AI Lab.
