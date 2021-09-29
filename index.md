@@ -25,7 +25,7 @@
   Sept. 2015 ~ Jul. 2019, in College of Intelligence and Computing
 
 ## Professional Experiences
-- Aug. 2019 ~ Now, research extern at Samsung AI Lab.
+- Aug. 2019 ~ Now, research extern at Samsung Research America AI Center.
 
 - Feb. 2019 ~ Aug. 2019, research intern at Peng Cheng Lab.
 
