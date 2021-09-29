@@ -25,6 +25,8 @@
   Sept. 2015 ~ Jul. 2019, in Dept. of Computer Software Engineering
 
 ## Professional Experiences
+- Aug. 2019 ~ Now, research extern at Samsung AI Lab.
+
 - Feb. 2019 ~ Aug. 2019, research intern at Peng Cheng Lab.
 
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
