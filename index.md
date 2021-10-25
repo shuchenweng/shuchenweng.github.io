@@ -25,7 +25,6 @@
   Sept. 2015 ~ Jul. 2019, in College of Intelligence and Computing
 
 ## Professional Experiences
-- Aug. 2019 ~ Now, research extern at Samsung Research America AI Center.
 
 - Feb. 2019 ~ Aug. 2019, research intern at Peng Cheng Lab.
 
@@ -35,7 +34,7 @@
 
 ## Services
 - Program committee member: CVPR, ICCV
-- Editor-in-chief at BAAI in the field of computer vision.
+- Editor-in-chief at BAAI computer version Internet community.
 
 ## Publications
 ### Image and Video Synthesis
