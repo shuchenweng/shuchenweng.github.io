@@ -34,7 +34,7 @@
 
 ## Services
 - Program committee member: CVPR, ICCV
-- Editor-in-chief at BAAI computer version Internet community.
+- Editor-in-chief at BAAI computer vision Internet community.
 
 ## Publications
 ### Image and Video Synthesis
