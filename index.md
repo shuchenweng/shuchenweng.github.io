@@ -44,12 +44,12 @@
 
 - Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020. [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540443.pdf)
 
-- Shuchen Weng\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". In CVPR 2020.[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf)
+- Shuchen Weng\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". Accepted by CVPR 2020.[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf)
 
 ### Human Action Recognition
-- Yanbo Fan, Shuchen Weng, Yong Zhang, Boxin Shi, Yi Zhang. "Context-Aware Cross-Attention for SkeletonBased Human Action Recognition". In IEEE Access, Volume 8, Pages. 15280-15290, 2020. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963933)
+- Yanbo Fan, Shuchen Weng, Yong Zhang, Boxin Shi, Yi Zhang. "Context-Aware Cross-Attention for SkeletonBased Human Action Recognition". Accepted by IEEE Access, Volume 8, Pages. 15280-15290, 2020. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963933)
 
-- Shuchen Weng\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". In ICASSP 2019.[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
+- Shuchen Weng\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by ICASSP 2019.[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
 
 ## Award
 Outstanding Undergraduate Student Award, by China Computer Federation.
