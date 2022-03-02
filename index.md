@@ -38,7 +38,7 @@
 
 ## Publications
 ### Image and Video Synthesis
-- Jimeng Sun\*, Shuchen Weng\*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accept by CVPR 2022. (coming soon)
+- Jimeng Sun\*, Shuchen Weng\*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accepted by CVPR 2022. (coming soon)
 
 - Shuchen Weng\*, Hao Wu\*, Zheng Chang, Jiajun Tang, Si Li, Boxin Shi. "L-CoDe: Language-based Colorization using Color-object Decoupled Conditions". Accepted by AAAI 2022. [[pdf]](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf)
 
