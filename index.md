@@ -33,11 +33,15 @@
 - Mar. 2018 ~ Jul. 2018, intern at China Automotive Technology&Research Center.
 
 ## Services
-- Program committee member: CVPR, ICCV
+- Program committee member: CVPR, ICCV, ECCV
 - Editor-in-chief at BAAI computer vision Internet community.
 
 ## Publications
 ### Image and Video Synthesis
+- Jimeng Sun*, Shuchen Weng*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accept by CVPR 2022 (coming soon)
+
+- Shuchen Weng*, Hao Wu*, Zheng Chang, Jiajun Tang, Si Li3, Boxin Shi. "L-CoDe: Language-based Colorization using Color-object Decoupled Conditions". Accepted by AAAI 2022 [[pdf]](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf)
+
 - Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020. [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540443.pdf)
 
 - Shuchen Weng\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". In CVPR 2020.[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf)
