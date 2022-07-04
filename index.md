@@ -38,13 +38,20 @@
 
 ## Publications
 ### Image and Video Synthesis
-- Jimeng Sun\*, Shuchen Weng\*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accepted by CVPR 2022. (coming soon)
 
-- Shuchen Weng\*, Hao Wu\*, Zheng Chang, Jiajun Tang, Si Li, Boxin Shi. "L-CoDe: Language-based Colorization using Color-object Decoupled Conditions". Accepted by AAAI 2022. [[pdf]](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf)
+- Shuchen Weng\*, Jimeng Sun\*, Yu Li, Si Li, Boxin Shi. "CT^2: Colorization Transformer via Color Tokens." Accepted by ECCV 2022. (Coming soon)
 
-- Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020. [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540443.pdf)
+- Zheng Chang\*, Shuchen Weng\*, Yu Li, Si Li, Boxin Shi. "L-CoDer: Language-based Colorization with Color-object Decoupling Transformer." Accepted by ECCV 2022. (Coming soon)
 
-- Shuchen Weng\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". Accepted by CVPR 2020. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf)
+- Shuchen Weng, Yi Wei, Ming-Ching Chang, Boxin Shi. "Instance Contour Adjustment via Structure-driven CNN." Accepted by ECCV 2022. (Coming soon)
+
+- Jimeng Sun\*, Shuchen Weng\*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accepted by CVPR 2022. [[pdf]](https://ci.idm.pku.edu.cn/Weng_CVPR22c.pdf)[[code]](https://github.com/shuchenweng/UniCoRN)
+
+- Shuchen Weng\*, Hao Wu\*, Zheng Chang, Jiajun Tang, Si Li, Boxin Shi. "L-CoDe: Language-based Colorization using Color-object Decoupled Conditions". Accepted by AAAI 2022. [[pdf]](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf)[[code]](https://github.com/changzheng123/L-CoDe)
+
+- Shuchen Weng, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by ECCV 2020. [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540443.pdf)[[code]](https://github.com/shuchenweng/TGC)
+
+- Shuchen Weng\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". Accepted by CVPR 2020. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf)[[code]](https://github.com/shuchenweng/MISC)
 
 ### Human Action Recognition
 - Yanbo Fan, Shuchen Weng, Yong Zhang, Boxin Shi, Yi Zhang. "Context-Aware Cross-Attention for SkeletonBased Human Action Recognition". Accepted by IEEE Access, Volume 8, Pages. 15280-15290, 2020. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963933)
