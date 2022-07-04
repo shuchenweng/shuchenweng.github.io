@@ -39,7 +39,7 @@
 ## Publications
 ### Image and Video Synthesis
 
-- Shuchen Weng\*, Jimeng Sun\*, Yu Li, Si Li, Boxin Shi. "CT^2: Colorization Transformer via Color Tokens." Accepted by ECCV 2022. (Coming soon)
+- Shuchen Weng\*, Jimeng Sun\*, Yu Li, Si Li, Boxin Shi. "CT^2^: Colorization Transformer via Color Tokens." Accepted by ECCV 2022. (Coming soon)
 
 - Zheng Chang\*, Shuchen Weng\*, Yu Li, Si Li, Boxin Shi. "L-CoDer: Language-based Colorization with Color-object Decoupling Transformer." Accepted by ECCV 2022. (Coming soon)
 
