@@ -39,11 +39,11 @@
 ## Publications
 ### Image and Video Synthesis
 
-- <b>Shuchen Weng</b>\*, Jimeng Sun\*, Yu Li, Si Li, Boxin Shi. "CT<sup>2</sup>: Colorization Transformer via Color Tokens." Accepted by <b>ECCV 2022 (Oral)</b>. (Coming soon)
+- <b>Shuchen Weng</b>\*, Jimeng Sun\*, Yu Li, Si Li, Boxin Shi. "CT<sup>2</sup>: Colorization Transformer via Color Tokens." Accepted by <b>ECCV 2022 (Oral)</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf)[[code]](https://github.com/shuchenweng/CT2)
 
-- Zheng Chang\*, <b>Shuchen Weng</b>\*, Yu Li, Si Li, Boxin Shi. "L-CoDer: Language-based Colorization with Color-object Decoupling Transformer." Accepted by <b>ECCV 2022</b>. (Coming soon)
+- Zheng Chang\*, <b>Shuchen Weng</b>\*, Yu Li, Si Li, Boxin Shi. "L-CoDer: Language-based Colorization with Color-object Decoupling Transformer." Accepted by <b>ECCV 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22g.pdf)[[code]](https://github.com/changzheng123/L-CoDer)
 
-- <b>Shuchen Weng</b>, Yi Wei, Ming-Ching Chang, Boxin Shi. "Instance Contour Adjustment via Structure-driven CNN." Accepted by <b>ECCV 2022</b>. (Coming soon)
+- <b>Shuchen Weng</b>, Yi Wei, Ming-Ching Chang, Boxin Shi. "Instance Contour Adjustment via Structure-driven CNN." Accepted by <b>ECCV 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22c.pdf)[[no code]]
 
 - Jimeng Sun\*, <b>Shuchen Weng</b>\*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accepted by <b>CVPR 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_CVPR22c.pdf)[[code]](https://github.com/shuchenweng/UniCoRN)
 
