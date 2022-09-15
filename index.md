@@ -14,9 +14,9 @@
 </table>
 
 ## Research Abstract
-Shuchen Weng devotes to <b>cross-modality (mainly language) content creation</b>. He proposes a series of conditional image repainting (CIR) models to synthesize objects of arbitrary color, texture and shape and seamlessly insert them into user-provided background. Therefore, CIR models have a wide range of applications in person synthesis, virtual object insertion and animation creation. He further builds the instance contour adjustment model, which could dilate or erode the contour of objects under the guidance of a controllable mask, so that users could achieves superior photography experience.
+Shuchen Weng devotes to <b>cross-modality (mainly language) content creation</b>. He proposes a series of conditional image repainting (CIR) models to synthesize objects of arbitrary color, texture and shape and seamlessly insert them into user-provided background. 
 
-His another contribution lies in <b>(automatic and language based) colorization</b>, which has a board applications in legacy image/video restoration and artistic creation. For language based colorization, his approaches deal with color-object decoupling and mismatch issues to ensure colors are correctly injected into corresponding image regions. He also firstly introduces transformer to the task and addresses the modaility gap, color inaccuracies and  global color inconsistencies. For automatic colorization, he proposes CT<sup>2</sup> to deal with incorrect semantic colors and undersaturation without any additional external priors, achiving the state-of-the-art performance.
+His another contribution lies in <b>(automatic and language based) colorization</b>, which has a board applications in legacy image/video restoration and artistic creation.
 
 Shuchen Weng will continue his research in language based image manipulation and makes synthesized images vivid and realistic.
 
