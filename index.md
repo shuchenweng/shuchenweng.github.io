@@ -13,13 +13,6 @@
   </tr>
 </table>
 
-## Research Abstract
-Shuchen Weng devotes to <b>cross-modality (mainly language) content creation</b>. He proposes a series of conditional image repainting (CIR) models to synthesize objects of arbitrary color, texture and shape and seamlessly insert them into user-provided background. 
-
-His another contribution lies in <b>(automatic and language based) colorization</b>, which has a board applications in legacy image/video restoration and artistic creation.
-
-Shuchen Weng will continue his research in language based image manipulation and makes synthesized images vivid and realistic.
-
 ## Education
 - Phd candidate at Peking University, Beijing, China
 
