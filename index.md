@@ -59,4 +59,6 @@
 - <b>Shuchen Weng</b>\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by <b>ICASSP 2019</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
 
 ## Award
-Outstanding Undergraduate Student Award, by China Computer Federation.
+Academic Innovation Award of Peking University (1% in Peking University), 2022.
+Outstanding Undergraduate Student Award, by China Computer Federation (China's annual Top 100 Undergraduate Students), 2019.
+National Scholarship for Bachelor Student of Tianjin University (2% in Tianjin University), 2017.
