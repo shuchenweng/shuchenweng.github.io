@@ -61,6 +61,6 @@
 ## Award
 Academic Innovation Award of Peking University (1% in Peking University), 2022.
 
-Outstanding Undergraduate Student Award, by China Computer Federation (China's annual Top 100 Undergraduate Students), 2019.
+Outstanding Undergraduate Student Award, by China Computer Federation (China's Annual Top 100 Undergraduate Students), 2019.
 
 National Scholarship for Bachelor Student of Tianjin University (2% in Tianjin University), 2017.
