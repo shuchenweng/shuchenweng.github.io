@@ -32,8 +32,8 @@
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
 
 ## Services
-- Program committee member: CVPR, ICCV, ECCV
-- Journal reviewer: IJCV.
+- Reviewer of Conferences: CVPR, ICCV, ECCV
+- Reviewer of Journals: IJCV.
 
 ## Publications
 ### Image and Video Synthesis
@@ -58,8 +58,8 @@
 - <b>Shuchen Weng</b>\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by <b>ICASSP 2019</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
 
 ## Award
-Academic Innovation Award of Peking University (北京大学学术创新奖), 2022. 1% in Peking University.
+Exceptional award for Academic Innovation Award (北京大学学术创新奖), <b>1% in Peking University, 2022.</b>
 
-Outstanding Undergraduate Student Award, by China Computer Federation (CCF优秀大学生奖), 2019. China's Annual Top 100 Undergraduate Students.
+Outstanding Undergraduate Student Award, by China Computer Federation (CCF优秀大学生奖), <b>China's Annual Top 100 Undergraduate Students, 2019.</b>
 
-National Scholarship for Bachelor Student of Tianjin University (天津大学本科生国家奖学金), 2017. 2% in Tianjin University.
+National Scholarship for Bachelor Student of Tianjin University (天津大学本科生国家奖学金), <b>2% in Tianjin University, 2017.</b>
