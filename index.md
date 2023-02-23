@@ -25,12 +25,11 @@
   Sept. 2015 ~ Jul. 2019, in College of Intelligence and Computing
 
 ## Professional Experiences
+- Jan. 2023 ~ Present, research intern at Beijing Academy of Artificial Intelligence (BAAI).
 
 - Feb. 2019 ~ Aug. 2019, research intern at Peng Cheng Lab.
 
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
-
-- Mar. 2018 ~ Jul. 2018, intern at China Automotive Technology&Research Center.
 
 ## Services
 - Program committee member: CVPR, ICCV, ECCV
@@ -59,8 +58,8 @@
 - <b>Shuchen Weng</b>\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by <b>ICASSP 2019</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
 
 ## Award
-Academic Innovation Award of Peking University (1% in Peking University), 2022.
+Academic Innovation Award of Peking University (北京大学学术创新奖), 2022. 1% in Peking University.
 
-Outstanding Undergraduate Student Award, by China Computer Federation (China's Annual Top 100 Undergraduate Students), 2019.
+Outstanding Undergraduate Student Award, by China Computer Federation (CCF优秀大学生奖), 2019. China's Annual Top 100 Undergraduate Students.
 
-National Scholarship for Bachelor Student of Tianjin University (2% in Tianjin University), 2017.
+National Scholarship for Bachelor Student of Tianjin University (天津大学本科生国家奖学金), 2017. 2% in Tianjin University.
