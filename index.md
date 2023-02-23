@@ -33,7 +33,7 @@
 
 ## Services
 - Program committee member: CVPR, ICCV, ECCV
-- Editor-in-chief at BAAI computer vision Internet community.
+- Journal reviewer: IJCV.
 
 ## Publications
 ### Image and Video Synthesis
