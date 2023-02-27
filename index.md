@@ -37,6 +37,7 @@
 
 ## Publications
 ### Image and Video Synthesis
+- Zheng Chang\*, <b>Shuchen Weng</b>\*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CoIns: Language-based Colorization with Instance Awareness." Accepted by <b>CVPR 2023</b>. [coming soon]
 
 - <b>Shuchen Weng</b>\*, Jimeng Sun\*, Yu Li, Si Li, Boxin Shi. "CT<sup>2</sup>: Colorization Transformer via Color Tokens." Accepted by <b>ECCV 2022 (Oral)</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf)[[code]](https://github.com/shuchenweng/CT2)
 
