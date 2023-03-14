@@ -33,7 +33,7 @@
 
 ## Services
 - Reviewer of Conferences: CVPR, ICCV, ECCV
-- Reviewer of Journals: IJCV.
+- Reviewer of Journals: TPAMI, IJCV.
 
 ## Publications
 ### Image and Video Synthesis
