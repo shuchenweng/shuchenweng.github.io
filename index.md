@@ -33,11 +33,13 @@
 
 ## Services
 - Reviewer of Conferences: CVPR, ICCV, ECCV
-- Reviewer of Journals: TPAMI, IJCV.
+- Reviewer of Journals: TPAMI, IJCV, Siggraph Asia
 
 ## Publications
 ### Image and Video Synthesis
-- Zheng Chang\*, <b>Shuchen Weng</b>\*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CoIns: Language-based Colorization with Instance Awareness." Accepted by <b>CVPR 2023</b>. [coming soon]
+- Zheng Chang\*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CAD: Language-based Colorization with Any-level Descriptions." arXiv preprint arXiv:2305.15217. [[pdf]](https://arxiv.org/pdf/2305.15217.pdf)[[code]](https://github.com/changzheng123/L-CAD)
+
+- Zheng Chang\*, <b>Shuchen Weng</b>\*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CoIns: Language-based Colorization with Instance Awareness." Accepted by <b>CVPR 2023</b>. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf)[[code]](https://github.com/changzheng123/L-CoIns)
 
 - <b>Shuchen Weng</b>\*, Jimeng Sun\*, Yu Li, Si Li, Boxin Shi. "CT<sup>2</sup>: Colorization Transformer via Color Tokens." Accepted by <b>ECCV 2022 (Oral)</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf)[[code]](https://github.com/shuchenweng/CT2)
 
