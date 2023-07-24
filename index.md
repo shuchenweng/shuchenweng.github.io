@@ -32,7 +32,7 @@
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
 
 ## Services
-- Reviewer of Conferences: CVPR, ICCV, ECCV
+- Reviewer of Conferences: CVPR, ICCV, ECCV, NeurIPS
 - Reviewer of Journals: TPAMI, IJCV, Siggraph Asia
 
 ## Publications
