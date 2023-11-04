@@ -37,7 +37,9 @@
 
 ## Publications
 ### Image and Video Synthesis
-- Zheng Chang\*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CAD: Language-based Colorization with Any-level Descriptions." arXiv preprint arXiv:2305.15217. [[pdf]](https://arxiv.org/pdf/2305.15217.pdf)[[code]](https://github.com/changzheng123/L-CAD)
+- Shuchen Weng, Boxin Shi. "Conditional Image Repainting." Accepted by TPAMI 2023. (coming soon) 
+
+- Zheng Chang\*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CAD: Language-based Colorization with Any-level Descriptions." Accepted by <b>NeurIps 2023 (Spotlight)</b>. [[pdf]](https://arxiv.org/pdf/2305.15217.pdf)[[code]](https://github.com/changzheng123/L-CAD)
 
 - <b>Shuchen Weng</b>\*, Peixuan Zhang\*, Zheng Chang, Xinlong Wang, Si Li, Boxin Shi. “Affective Image Filter: Reflecting Emotions from Text to Images." Accepted by <b>ICCV 2023</b>. (coming soon)
 
