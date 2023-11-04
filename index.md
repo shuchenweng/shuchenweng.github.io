@@ -37,7 +37,7 @@
 
 ## Publications
 ### Image and Video Synthesis
-- Shuchen Weng, Boxin Shi. "Conditional Image Repainting." Accepted by TPAMI 2023. (coming soon) 
+- Shuchen Weng, Boxin Shi. "Conditional Image Repainting." Accepted by <b>TPAMI 2023</b>. (coming soon) 
 
 - Zheng Chang\*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CAD: Language-based Colorization with Any-level Descriptions." Accepted by <b>NeurIps 2023 (Spotlight)</b>. [[pdf]](https://arxiv.org/pdf/2305.15217.pdf)[[code]](https://github.com/changzheng123/L-CAD)
 
