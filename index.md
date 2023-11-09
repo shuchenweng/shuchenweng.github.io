@@ -37,11 +37,11 @@
 
 ## Publications
 ### Image and Video Synthesis
-- <b>Shuchen Weng</b>, Boxin Shi. "Conditional Image Repainting." Accepted by <b>TPAMI 2023</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313073)
+- <b>Shuchen Weng</b>, Boxin Shi. "Conditional Image Repainting." Accepted by <b>TPAMI 2023</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313073)(coming soon)
 
 - Zheng Chang\*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CAD: Language-based Colorization with Any-level Descriptions." Accepted by <b>NeurIps 2023 (Spotlight)</b>. [[pdf]](https://arxiv.org/pdf/2305.15217.pdf)[[code]](https://github.com/changzheng123/L-CAD)
 
-- <b>Shuchen Weng</b>\*, Peixuan Zhang\*, Zheng Chang, Xinlong Wang, Si Li, Boxin Shi. “Affective Image Filter: Reflecting Emotions from Text to Images." Accepted by <b>ICCV 2023</b>. (coming soon)
+- <b>Shuchen Weng</b>\*, Peixuan Zhang\*, Zheng Chang, Xinlong Wang, Si Li, Boxin Shi. “Affective Image Filter: Reflecting Emotions from Text to Images." Accepted by <b>ICCV 2023</b>. [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Affective_Image_Filter_Reflecting_Emotions_from_Text_to_Images_ICCV_2023_paper.pdf)(coming soon)
 
 - Zheng Chang\*, <b>Shuchen Weng</b>\*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CoIns: Language-based Colorization with Instance Awareness." Accepted by <b>CVPR 2023</b>. [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf)[[code]](https://github.com/changzheng123/L-CoIns)
 
