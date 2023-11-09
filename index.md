@@ -32,12 +32,12 @@
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
 
 ## Services
-- Reviewer of Conferences: CVPR, ICCV, ECCV, NeurIPS
+- Reviewer of Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICRA
 - Reviewer of Journals: TPAMI, IJCV, Siggraph Asia
 
 ## Publications
 ### Image and Video Synthesis
-- <b>Shuchen Weng</b>, Boxin Shi. "Conditional Image Repainting." Accepted by <b>TPAMI 2023</b>. (coming soon) 
+- <b>Shuchen Weng</b>, Boxin Shi. "Conditional Image Repainting." Accepted by <b>TPAMI 2023</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313073)
 
 - Zheng Chang\*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CAD: Language-based Colorization with Any-level Descriptions." Accepted by <b>NeurIps 2023 (Spotlight)</b>. [[pdf]](https://arxiv.org/pdf/2305.15217.pdf)[[code]](https://github.com/changzheng123/L-CAD)
 
