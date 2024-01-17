@@ -38,6 +38,7 @@
 ## Publications
 ### Image Repainting
 - <b>Shuchen Weng</b>, Boxin Shi. "Conditional Image Repainting." Accepted by <b>TPAMI 2023</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313073)
+- Jiajun Tang, Haofeng Zhong, <b>Shuchen Weng</b>, Boxin Shi. "LuminAIRe: Illumination-Aware Conditional Image Repainting for Lighting-Realistic Generation." Accepted by <b>NeurIPS 2023</b>. [[pdf]](https://ci.idm.pku.edu.cn/Tang_NeurIPS23.pdf)
 - Jimeng Sun\*, <b>Shuchen Weng</b>\*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accepted by <b>CVPR 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_CVPR22c.pdf)[[code]](https://github.com/shuchenweng/UniCoRN)
 - <b>Shuchen Weng</b>, Wenbo Li, Dawei Li, Hongxia Jin, Boxin Shi. "Conditional Image Repainting via Semantic Bridging and Piecewise Value Function". Accepted by <b>ECCV 2020</b>. [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540443.pdf)[[code]](https://github.com/shuchenweng/TGC)
 - <b>Shuchen Weng</b>\* , Wenbo Li\* , Dawei Li, Hongxia Jin, Boxin Shi. "MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis". Accepted by <b>CVPR 2020</b>. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf)[[code]](https://github.com/shuchenweng/MISC)
@@ -54,7 +55,6 @@
 
 ### Otehrs
 - Yean Cheng,  Renjie Wan, <b>Shuchen Weng</b>, Chengxuan Zhu, Yakun Chang, Boxin Shi. "Colorizing Monochromatic Radiance Fields." Accepted by <b>AAAI 2024 (Oral)</b>. (coming soon)
-- Jiajun Tang, Haofeng Zhong, <b>Shuchen Weng</b>, Boxin Shi. "LuminAIRe: Illumination-Aware Conditional Image Repainting for Lighting-Realistic Generation." Accepted by <b>NeurIPS 2023</b>. [[pdf]](https://ci.idm.pku.edu.cn/Tang_NeurIPS23.pdf)
 - <b>Shuchen Weng</b>, Yi Wei, Ming-Ching Chang, Boxin Shi. "Instance Contour Adjustment via Structure-driven CNN." Accepted by <b>ECCV 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22c.pdf)
 - <b>Shuchen Weng</b>\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by <b>ICASSP 2019</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
 
