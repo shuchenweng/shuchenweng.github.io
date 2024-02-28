@@ -1,4 +1,4 @@
-![image](https://github.com/shuchenweng/shuchenweng.github.io/assets/43395742/6155092f-7394-4642-9bad-52948fbdadf4)<table border="0">
+<table border="0">
   <tr>
     <td width="75%">
       <h1>Shuchen Weng</h1>
