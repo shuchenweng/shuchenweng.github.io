@@ -54,7 +54,8 @@
 - <b>Shuchen Weng</b>\*, Peixuan Zhang\*, Zheng Chang, Xinlong Wang, Si Li, Boxin Shi. “Affective Image Filter: Reflecting Emotions from Text to Images." Accepted by <b>ICCV 2023</b>. [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Affective_Image_Filter_Reflecting_Emotions_from_Text_to_Images_ICCV_2023_paper.pdf)[[code]](https://github.com/zpx0922/AIFormer)
 
 ### Others
-- Haofeng Zhong, Yuchen Hong, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi. "Language-guided Image Reflection Separation." Accepted by <b>CVPR 2024</b>. (coming soon)
+- Yuchen Hong#, Haofeng Zhong#, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi. "L-DiffER: Single image reflection removal with language-based diffusion model." Accepted by <b>ECCV 2024</b>. [[pdf]](https://assets.ctfassets.net/yreyglvi5sud/4uhN2PF7UyMGgiWQgCMSgi/41f4f9f46fbfa370b3ccd8fbcadbc2b3/2024______Hong_ECCV.pdf)
+- Haofeng Zhong, Yuchen Hong, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi. "Language-guided Image Reflection Separation." Accepted by <b>CVPR 2024</b>. [[pdf]](https://assets.ctfassets.net/yreyglvi5sud/1ptZmtvx71hLcIKH5mrxWQ/c571786893f745aa5b2f2298e55cd869/Zhong_CVPR24.pdf)
 - Yean Cheng,  Renjie Wan, <b>Shuchen Weng</b>, Chengxuan Zhu, Yakun Chang, Boxin Shi. "Colorizing Monochromatic Radiance Fields." Accepted by <b>AAAI 2024 (Oral)</b>. [[pdf]](https://ci.idm.pku.edu.cn/Cheng_AAAI24.pdf)
 - <b>Shuchen Weng</b>, Yi Wei, Ming-Ching Chang, Boxin Shi. "Instance Contour Adjustment via Structure-driven CNN." Accepted by <b>ECCV 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22c.pdf)
 - <b>Shuchen Weng</b>\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by <b>ICASSP 2019</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
