@@ -41,7 +41,7 @@
 - <b>Shuchen Weng</b>\*, Haojie Zheng\*, Zheng Chang, Si Li, Boxin Shi, Xinlong Wang. "Audio-Sync Video Generation with Multi-Stream Temporal Control." <b>Arxiv 2025</b>. [[pdf]](https://arxiv.org/pdf/2506.08003?)
 - Yifei Xia\*, <b>Shuchen Weng</b>\*, Siqi Yang, Jingqi Liu, Chengxuan Zhu, Minggui Teng, Zijian Jia, Han Jiang, Boxin Shi. "PanoWan: Lifting Diffusion Video Generation Models to 360 with Latitude/Longitude-aware Mechanisms". <b>ArXiv 2025</b>. [[pdf]](https://arxiv.org/pdf/2505.22016)
 - <b>Shuchen Weng</b>\*, Haojie Zheng\*, Peixuan Zhan, Yuchen Hong, Han Jiang, Si Li, Boxin Shi. "VIRES: Video Instance Repainting with Sketch and Text Guidance". Accepted by <b>CVPR 2025</b>. [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Weng_VIRES_Video_Instance_Repainting_via_Sketch_and_Text_Guided_Generation_CVPR_2025_paper.pdf)
-- Zheng Chang, <b>Shuchen Weng</b>, Huan Ouyang, Yu Li, Si Li, Boxin Shi. "L-C4: Language-Based Video Colorization for Creative and Consistent Color". <b>ArXiv 2024</b>.[[pdf]](https://arxiv.org/pdf/2410.04972)
+- Zheng Chang, <b>Shuchen Weng</b>, Huan Ouyang, Yu Li, Si Li, Boxin Shi. "L-C4: Language-Based Video Colorization for Creative and Consistent Color". <b>ArXiv 2024</b>. [[pdf]](https://arxiv.org/pdf/2410.04972)
 
 
 ### Image Repainting
@@ -59,7 +59,7 @@
 - <b>Shuchen Weng</b>, Yi Wei, Ming-Ching Chang, Boxin Shi. "Instance Contour Adjustment via Structure-driven CNN." Accepted by <b>ECCV 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_ECCV22c.pdf)
 
 
-### Low-Level vision
+### Low-level Vision
 - Yuchen Hong\*, Haofeng Zhong\*, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi. "L-DiffER: Single image reflection removal with language-based diffusion model." Accepted by <b>ECCV 2024</b>. [[pdf]](https://assets.ctfassets.net/yreyglvi5sud/4uhN2PF7UyMGgiWQgCMSgi/41f4f9f46fbfa370b3ccd8fbcadbc2b3/2024______Hong_ECCV.pdf)
 - Haofeng Zhong\*, Yuchen Hong\*, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi. "Language-guided Image Reflection Separation." Accepted by <b>CVPR 2024</b>. [[pdf]](https://assets.ctfassets.net/yreyglvi5sud/1ptZmtvx71hLcIKH5mrxWQ/c571786893f745aa5b2f2298e55cd869/Zhong_CVPR24.pdf)
 - Zheng Chang\*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi. "L-CAD: Language-based Colorization with Any-level Descriptions." Accepted by <b>NeurIps 2023 (Spotlight)</b>. [[pdf]](https://arxiv.org/pdf/2305.15217.pdf)[[code]](https://github.com/changzheng123/L-CAD)
@@ -75,6 +75,10 @@
 
 
 ## Award
+Huawei TopMinds Program (华为天才少年), 2024.
+
+Alibaba Taotian Group T-star Program (阿里淘天T-Star), 2024.
+
 National Scholarship for graduate Student of Peking University (北京大学博士生国家奖学金), <b>2% in Peking University, 2023.</b>
 
 Exceptional award for Academic Innovation Award (北京大学学术创新奖), <b>1% in Peking University, 2022.</b>
