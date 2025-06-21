@@ -32,9 +32,18 @@
 
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
 
-## Services
-- Reviewer of Conferences: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICRA
-- Reviewer of Journals: TPAMI, IJCV, Siggraph Asia
+## Award
+Huawei TopMinds Program (华为天才少年), 2024.
+
+Alibaba Taotian Group T-star Program (阿里淘天T-Star), 2024.
+
+National Scholarship for graduate Student of Peking University (北京大学博士生国家奖学金), <b>2% in Peking University, 2023.</b>
+
+Exceptional award for Academic Innovation Award (北京大学学术创新奖), <b>1% in Peking University, 2022.</b>
+
+Outstanding Undergraduate Student Award, by China Computer Federation (CCF优秀大学生奖), <b>China's Annual Top 100 Undergraduate Students, 2019.</b>
+
+National Scholarship for Bachelor Student of Tianjin University (天津大学本科生国家奖学金), <b>2% in Tianjin University, 2017.</b>
 
 ## Publications
 TPAMI x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 2, AAAI x 2
@@ -74,15 +83,4 @@ TPAMI x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 2, AAAI x 2
 - <b>Shuchen Weng</b>\* , Wenbo Li\* , Yi Zhang, Siwei Lyu. "Dual-stream CNN for Structured Time Series Classification". Accepted by <b>ICASSP 2019</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410)
 
 
-## Award
-Huawei TopMinds Program (华为天才少年), 2024.
 
-Alibaba Taotian Group T-star Program (阿里淘天T-Star), 2024.
-
-National Scholarship for graduate Student of Peking University (北京大学博士生国家奖学金), <b>2% in Peking University, 2023.</b>
-
-Exceptional award for Academic Innovation Award (北京大学学术创新奖), <b>1% in Peking University, 2022.</b>
-
-Outstanding Undergraduate Student Award, by China Computer Federation (CCF优秀大学生奖), <b>China's Annual Top 100 Undergraduate Students, 2019.</b>
-
-National Scholarship for Bachelor Student of Tianjin University (天津大学本科生国家奖学金), <b>2% in Tianjin University, 2017.</b>
