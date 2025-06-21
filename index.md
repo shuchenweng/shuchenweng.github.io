@@ -37,6 +37,8 @@
 - Reviewer of Journals: TPAMI, IJCV, Siggraph Asia
 
 ## Publications
+TPAMI x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 2, AAAI x 2
+
 ### Video Generation/Editing
 - <b>Shuchen Weng</b>\*, Haojie Zheng\*, Zheng Chang, Si Li, Boxin Shi, Xinlong Wang. "Audio-Sync Video Generation with Multi-Stream Temporal Control." <b>Arxiv 2025</b>. [[pdf]](https://arxiv.org/pdf/2506.08003?)
 - Yifei Xia\*, <b>Shuchen Weng</b>\*, Siqi Yang, Jingqi Liu, Chengxuan Zhu, Minggui Teng, Zijian Jia, Han Jiang, Boxin Shi. "PanoWan: Lifting Diffusion Video Generation Models to 360 with Latitude/Longitude-aware Mechanisms". <b>ArXiv 2025</b>. [[pdf]](https://arxiv.org/pdf/2505.22016)
