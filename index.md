@@ -59,6 +59,7 @@ TPAMI x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 2, AAAI x 2
 - <b>Shuchen Weng</b>\*, Hao Wu\*, Zheng Chang, Jiajun Tang, Si Li, Boxin Shi. "L-CoDe: Language-based Colorization using Color-object Decoupled Conditions". Accepted by <b>AAAI 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf)[[code]](https://github.com/changzheng123/L-CoDe)
 
 ### Image Repainting
+- <b>Shuchen Weng</b>\*, Xiaocheng Gong\*, Haojie Zheng\*, Xinlong Wang, Si Li, Boxin Shi. "OpenCIR: Conditional Image Repainting with Open Condition Mixture." <b>TPAMI 2025</b>  [[pdf]](https://ieeexplore.ieee.org/document/11122618)
 - <b>Shuchen Weng</b>, Boxin Shi. "Conditional Image Repainting." Accepted by <b>TPAMI 2023</b>. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313073)
 - Jiajun Tang, Haofeng Zhong, <b>Shuchen Weng</b>, Boxin Shi. "LuminAIRe: Illumination-Aware Conditional Image Repainting for Lighting-Realistic Generation." Accepted by <b>NeurIPS 2023</b>. [[pdf]](https://ci.idm.pku.edu.cn/Tang_NeurIPS23.pdf)
 - Jimeng Sun\*, <b>Shuchen Weng</b>\*, Zheng Chang, Si Li, Boxin Shi. "UniCoRN: A Unified Conditional Image Repainting Network". Accepted by <b>CVPR 2022</b>. [[pdf]](https://ci.idm.pku.edu.cn/Weng_CVPR22c.pdf)[[code]](https://github.com/shuchenweng/UniCoRN)
