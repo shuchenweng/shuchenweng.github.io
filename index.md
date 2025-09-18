@@ -33,11 +33,11 @@
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
 
 ## Publications
-TPAMI x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 2, AAAI x 2
+TPAMI x 2, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 4, AAAI x 2
 
 ### Video Generation/Editing
-- <b>Shuchen Weng</b>\*, Haojie Zheng\*, Zheng Chang, Si Li, Boxin Shi, Xinlong Wang. "Audio-Sync Video Generation with Multi-Stream Temporal Control." Accepted by <b>NIPS 2025</b>. [[pdf]](https://arxiv.org/pdf/2506.08003?)
-- Yifei Xia\*, <b>Shuchen Weng</b>\*, Siqi Yang, Jingqi Liu, Chengxuan Zhu, Minggui Teng, Zijian Jia, Han Jiang, Boxin Shi. "PanoWan: Lifting Diffusion Video Generation Models to 360 with Latitude/Longitude-aware Mechanisms". Accepted by <b>NIPS 2025</b>. [[pdf]](https://arxiv.org/pdf/2505.22016)
+- <b>Shuchen Weng</b>\*, Haojie Zheng\*, Zheng Chang, Si Li, Boxin Shi, Xinlong Wang. "Audio-Sync Video Generation with Multi-Stream Temporal Control." Accepted by <b>NeurIps 2025</b>. [[pdf]](https://arxiv.org/pdf/2506.08003?)
+- Yifei Xia\*, <b>Shuchen Weng</b>\*, Siqi Yang, Jingqi Liu, Chengxuan Zhu, Minggui Teng, Zijian Jia, Han Jiang, Boxin Shi. "PanoWan: Lifting Diffusion Video Generation Models to 360 with Latitude/Longitude-aware Mechanisms". Accepted by <b>NeurIps 2025</b>. [[pdf]](https://arxiv.org/pdf/2505.22016)
 - <b>Shuchen Weng</b>\*, Haojie Zheng\*, Peixuan Zhan, Yuchen Hong, Han Jiang, Si Li, Boxin Shi. "VIRES: Video Instance Repainting with Sketch and Text Guidance". Accepted by <b>CVPR 2025</b>. [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Weng_VIRES_Video_Instance_Repainting_via_Sketch_and_Text_Guided_Generation_CVPR_2025_paper.pdf)
 - Zheng Chang, <b>Shuchen Weng</b>, Huan Ouyang, Yu Li, Si Li, Boxin Shi. "L-C4: Language-Based Video Colorization for Creative and Consistent Color". <b>ArXiv 2024</b>. [[pdf]](https://arxiv.org/pdf/2410.04972)
 
