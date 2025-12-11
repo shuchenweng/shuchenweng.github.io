@@ -33,7 +33,7 @@
 - Aug. 2018 ~ Nov. 2018, research intern at Tencent AI Lab.
 
 ## Publications
-TPAMI x 2, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 4, AAAI x 2
+TPAMI x 3, IJCV x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 4, AAAI x 2
 
 ### Video Generation/Editing
 - <b>Shuchen Weng</b>\*, Haojie Zheng\*, Zheng Chang, Si Li, Boxin Shi, Xinlong Wang. "Audio-Sync Video Generation with Multi-Stream Temporal Control." Accepted by <b>NeurIPS 2025</b>. [[pdf]](https://arxiv.org/pdf/2506.08003?)
