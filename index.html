@@ -101,13 +101,12 @@
         border-radius: 4px; margin-left: 6px; vertical-align: middle; font-weight: 800; text-transform: uppercase;
     }
 
-    /* === 通讯作者信封图标 === */
+    /* === 通讯作者信封图标 (纯展示) === */
     .icon-mail {
-      width: 14px; height: 14px; margin-left: 2px; vertical-align: middle;
-      fill: #555; transition: fill 0.2s;
-      margin-bottom: 2px; /* 微调对齐 */
+      width: 14px; height: 14px; margin-left: 3px; vertical-align: middle;
+      fill: #555; /* 深灰色 */
+      margin-bottom: 2px;
     }
-    a:hover .icon-mail { fill: #cc0000; }
 
     /* 移动端适配 */
     @media (max-width: 768px) {
@@ -178,23 +177,26 @@
     <p style="font-weight: bold; color: #444; margin-bottom: 30px;">
         TPAMI x 3, IJCV x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 4, AAAI x 2
         <br>
-        <span style="font-weight: normal; font-size: 0.9em; color: #666;">(<sup>†</sup> indicates equal contribution)</span>
+        <span style="font-weight: normal; font-size: 0.9em; color: #666;">
+            (<sup>†</sup> equal contribution, 
+            <svg class="icon-mail" viewBox="0 0 24 24" style="margin-left:0;"><path d="M20,4H4C2.895,4,2,4.895,2,6v12c0,1.105,0.895,2,2,2h16c1.105,0,2-0.895,2-2V6C22,4.895,21.105,4,20,4z M20,8.236l-8,4.882 L4,8.236V6h16V8.236z"></path></svg> corresponding author)
+        </span>
     </p>
 
     <h3>Video Generation/Editing</h3>
 
-      <div class="paper-item">
+    <div class="paper-item">
         <span class="paper-title">Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner <span class="tag-new">NeurIPS 2025</span></span>
         <span class="paper-author">Haojie Zheng<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Jingqi Liu, Siqi Yang, Boxin Shi, Xinlong Wang</span>
         <span class="paper-venue">arXiv</span>
         <div class="paper-links"><a href="https://arxiv.org/pdf/2512.10571?">[PDF]</a></div>
     </div>
     
-      <div class="paper-item">
+    <div class="paper-item">
         <span class="paper-title">STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative <span class="tag-new">NeurIPS 2025</span></span>
         <span class="paper-author">
             Peixuan Zhang<sup>†</sup>, Zijian Jia<sup>†</sup>, Kaiqi Liu, 
-            <b>Shuchen Weng</b><a href="mailto:shuchenweng@pku.edu.cn" title="Corresponding Author"><svg class="icon-mail" viewBox="0 0 24 24"><path d="M20,4H4C2.895,4,2,4.895,2,6v12c0,1.105,0.895,2,2,2h16c1.105,0,2-0.895,2-2V6C22,4.895,21.105,4,20,4z M20,8.236l-8,4.882 L4,8.236V6h16V8.236z"></path></svg></a>, 
+            <b>Shuchen Weng</b><svg class="icon-mail" viewBox="0 0 24 24"><path d="M20,4H4C2.895,4,2,4.895,2,6v12c0,1.105,0.895,2,2,2h16c1.105,0,2-0.895,2-2V6C22,4.895,21.105,4,20,4z M20,8.236l-8,4.882 L4,8.236V6h16V8.236z"></path></svg>, 
             Si Li, Boxin Shi
         </span>
         <span class="paper-venue">arXiv</span>
