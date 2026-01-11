@@ -85,9 +85,9 @@
     }
     .social-links a:hover { background: #fff; border-color: #ccc; color: #000; }
 
-    /* === 论文列表 (纯文字版) === */
+    /* === 论文列表 === */
     .paper-item { 
-      margin-bottom: 30px; /* 移除了 Grid 布局，回归简单堆叠 */
+      margin-bottom: 30px;
     }
     
     .paper-title { font-size: 1.15em; font-weight: 700; color: #000; margin-bottom: 6px; display: block; line-height: 1.3; }
@@ -101,6 +101,15 @@
         border-radius: 4px; margin-left: 6px; vertical-align: middle; font-weight: 800; text-transform: uppercase;
     }
 
+    /* === 通讯作者信封图标 === */
+    .icon-mail {
+      width: 14px; height: 14px; margin-left: 2px; vertical-align: middle;
+      fill: #555; transition: fill 0.2s;
+      margin-bottom: 2px; /* 微调对齐 */
+    }
+    a:hover .icon-mail { fill: #cc0000; }
+
+    /* 移动端适配 */
     @media (max-width: 768px) {
       .container { padding: 30px 20px; }
       .header-container { flex-direction: column-reverse; text-align: center; align-items: center; gap: 20px; }
@@ -138,9 +147,9 @@
 
     <h2>🔥 News</h2>
     <ul class="text-list">
-      <li><b>[2025.06]</b> Three papers accepted by <b>NeurIPS 2025</b>!</li>
-      <li><b>[2025.02]</b> One paper (VIRES) accepted by <b>CVPR 2025</b>.</li>
-      <li><b>[2024.07]</b> Joined BAAI as a Technical Staff.</li>
+      <li><b>[2025.12]</b> 1 papers accepted by <b>TPAMI</b>!</li>
+      <li><b>[2025.09]</b> 1 papers accepted by <b>IJCV</b>!</li>
+      <li><b>[2025.06]</b> 2 papers accepted by <b>NeurIPS 2025</b>!</li>
     </ul>
 
     <h2>Education</h2>
@@ -168,27 +177,47 @@
     <h2>📝 Publications</h2>
     <p style="font-weight: bold; color: #444; margin-bottom: 30px;">
         TPAMI x 3, IJCV x 1, CVPR x 6, ECCV x 5, ICCV x 1, NeurIPS x 4, AAAI x 2
+        <br>
+        <span style="font-weight: normal; font-size: 0.9em; color: #666;">(<sup>†</sup> indicates equal contribution)</span>
     </p>
 
     <h3>Video Generation/Editing</h3>
 
+      <div class="paper-item">
+        <span class="paper-title">Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner <span class="tag-new">NeurIPS 2025</span></span>
+        <span class="paper-author">Haojie Zheng<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Jingqi Liu, Siqi Yang, Boxin Shi, Xinlong Wang</span>
+        <span class="paper-venue">arXiv</span>
+        <div class="paper-links"><a href="https://arxiv.org/pdf/2512.10571?">[PDF]</a></div>
+    </div>
+    
+      <div class="paper-item">
+        <span class="paper-title">STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative <span class="tag-new">NeurIPS 2025</span></span>
+        <span class="paper-author">
+            Peixuan Zhang<sup>†</sup>, Zijian Jia<sup>†</sup>, Kaiqi Liu, 
+            <b>Shuchen Weng</b><a href="mailto:shuchenweng@pku.edu.cn" title="Corresponding Author"><svg class="icon-mail" viewBox="0 0 24 24"><path d="M20,4H4C2.895,4,2,4.895,2,6v12c0,1.105,0.895,2,2,2h16c1.105,0,2-0.895,2-2V6C22,4.895,21.105,4,20,4z M20,8.236l-8,4.882 L4,8.236V6h16V8.236z"></path></svg></a>, 
+            Si Li, Boxin Shi
+        </span>
+        <span class="paper-venue">arXiv</span>
+        <div class="paper-links"><a href="https://arxiv.org/pdf/2512.12372?">[PDF]</a></div>
+    </div>
+    
     <div class="paper-item">
         <span class="paper-title">Audio-Sync Video Generation with Multi-Stream Temporal Control <span class="tag-new">NeurIPS 2025</span></span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Haojie Zheng*, Zheng Chang, Si Li, Boxin Shi, Xinlong Wang</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Haojie Zheng<sup>†</sup>, Zheng Chang, Si Li, Boxin Shi, Xinlong Wang</span>
         <span class="paper-venue">NeurIPS 2025</span>
         <div class="paper-links"><a href="https://arxiv.org/pdf/2506.08003?">[PDF]</a></div>
     </div>
 
     <div class="paper-item">
         <span class="paper-title">PanoWan: Lifting Diffusion Video Generation Models to 360 with Latitude/Longitude-aware Mechanisms <span class="tag-new">NeurIPS 2025</span></span>
-        <span class="paper-author">Yifei Xia*, <b>Shuchen Weng</b>*, Siqi Yang, Jingqi Liu, Chengxuan Zhu, Minggui Teng, Zijian Jia, Han Jiang, Boxin Shi</span>
+        <span class="paper-author">Yifei Xia<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Siqi Yang, Jingqi Liu, Chengxuan Zhu, Minggui Teng, Zijian Jia, Han Jiang, Boxin Shi</span>
         <span class="paper-venue">NeurIPS 2025</span>
         <div class="paper-links"><a href="https://arxiv.org/pdf/2505.22016">[PDF]</a></div>
     </div>
 
     <div class="paper-item">
         <span class="paper-title">VIRES: Video Instance Repainting with Sketch and Text Guidance</span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Haojie Zheng*, Peixuan Zhan, Yuchen Hong, Han Jiang, Si Li, Boxin Shi</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Haojie Zheng<sup>†</sup>, Peixuan Zhan, Yuchen Hong, Han Jiang, Si Li, Boxin Shi</span>
         <span class="paper-venue">CVPR 2025</span>
         <div class="paper-links"><a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Weng_VIRES_Video_Instance_Repainting_via_Sketch_and_Text_Guided_Generation_CVPR_2025_paper.pdf">[PDF]</a></div>
     </div>
@@ -204,14 +233,14 @@
 
     <div class="paper-item">
         <span class="paper-title">Towards Deeper Emotional Reflection: Crafting Affective Image Filters with Generative Priors</span>
-        <span class="paper-author">Peixuan Zhang*, <b>Shuchen Weng</b>*, Jiajun Tang, Si Li, Boxin Shi</span>
+        <span class="paper-author">Peixuan Zhang<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Jiajun Tang, Si Li, Boxin Shi</span>
         <span class="paper-venue">TPAMI 2025</span>
         <div class="paper-links"><span>[Coming Soon]</span></div>
     </div>
 
     <div class="paper-item">
         <span class="paper-title">Affective Image Editing: Shaping Emotional Factors via Text Descriptions</span>
-        <span class="paper-author">Peixuan Zhang*, <b>Shuchen Weng</b>*, Chengxuan Zhu, Binghao Tang, Zijian Jia, Si Li, Boxin Shi</span>
+        <span class="paper-author">Peixuan Zhang<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Chengxuan Zhu, Binghao Tang, Zijian Jia, Si Li, Boxin Shi</span>
         <span class="paper-venue">IJCV 2025</span>
         <div class="paper-links"><a href="https://arxiv.org/pdf/2505.18699?">[PDF]</a></div>
     </div>
@@ -225,7 +254,7 @@
 
     <div class="paper-item">
         <span class="paper-title">Affective Image Filter: Reflecting Emotions from Text to Images</span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Peixuan Zhang*, Zheng Chang, Xinlong Wang, Si Li, Boxin Shi</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Peixuan Zhang<sup>†</sup>, Zheng Chang, Xinlong Wang, Si Li, Boxin Shi</span>
         <span class="paper-venue">ICCV 2023</span>
         <div class="paper-links">
             <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Affective_Image_Filter_Reflecting_Emotions_from_Text_to_Images_ICCV_2023_paper.pdf">[PDF]</a>
@@ -244,21 +273,21 @@
 
     <div class="paper-item">
         <span class="paper-title">L-DiffER: Single image reflection removal with language-based diffusion model</span>
-        <span class="paper-author">Yuchen Hong*, Haofeng Zhong*, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi</span>
+        <span class="paper-author">Yuchen Hong<sup>†</sup>, Haofeng Zhong<sup>†</sup>, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi</span>
         <span class="paper-venue">ECCV 2024</span>
         <div class="paper-links"><a href="https://assets.ctfassets.net/yreyglvi5sud/4uhN2PF7UyMGgiWQgCMSgi/41f4f9f46fbfa370b3ccd8fbcadbc2b3/2024______Hong_ECCV.pdf">[PDF]</a></div>
     </div>
 
     <div class="paper-item">
         <span class="paper-title">Language-guided Image Reflection Separation</span>
-        <span class="paper-author">Haofeng Zhong*, Yuchen Hong*, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi</span>
+        <span class="paper-author">Haofeng Zhong<sup>†</sup>, Yuchen Hong<sup>†</sup>, <b>Shuchen Weng</b>, Jinxiu Liang, Boxin Shi</span>
         <span class="paper-venue">CVPR 2024</span>
         <div class="paper-links"><a href="https://assets.ctfassets.net/yreyglvi5sud/1ptZmtvx71hLcIKH5mrxWQ/c571786893f745aa5b2f2298e55cd869/Zhong_CVPR24.pdf">[PDF]</a></div>
     </div>
 
     <div class="paper-item">
         <span class="paper-title">L-CAD: Language-based Colorization with Any-level Descriptions</span>
-        <span class="paper-author">Zheng Chang*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi</span>
+        <span class="paper-author">Zheng Chang<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Peixuan Zhang, Yu Li, Si Li, Boxin Shi</span>
         <span class="paper-venue">NeurIPS 2023 (Spotlight)</span>
         <div class="paper-links">
             <a href="https://arxiv.org/pdf/2305.15217.pdf">[PDF]</a>
@@ -268,7 +297,7 @@
 
     <div class="paper-item">
         <span class="paper-title">L-CoIns: Language-based Colorization with Instance Awareness</span>
-        <span class="paper-author">Zheng Chang*, <b>Shuchen Weng</b>*, Peixuan Zhang, Yu Li, Si Li, Boxin Shi</span>
+        <span class="paper-author">Zheng Chang<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Peixuan Zhang, Yu Li, Si Li, Boxin Shi</span>
         <span class="paper-venue">CVPR 2023</span>
         <div class="paper-links">
             <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf">[PDF]</a>
@@ -278,7 +307,7 @@
 
     <div class="paper-item">
         <span class="paper-title">CT<sup>2</sup>: Colorization Transformer via Color Tokens</span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Jimeng Sun*, Yu Li, Si Li, Boxin Shi</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Jimeng Sun<sup>†</sup>, Yu Li, Si Li, Boxin Shi</span>
         <span class="paper-venue">ECCV 2022 (Oral)</span>
         <div class="paper-links">
             <a href="https://ci.idm.pku.edu.cn/Weng_ECCV22b.pdf">[PDF]</a>
@@ -288,7 +317,7 @@
 
     <div class="paper-item">
         <span class="paper-title">L-CoDer: Language-based Colorization with Color-object Decoupling Transformer</span>
-        <span class="paper-author">Zheng Chang*, <b>Shuchen Weng</b>*, Yu Li, Si Li, Boxin Shi</span>
+        <span class="paper-author">Zheng Chang<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Yu Li, Si Li, Boxin Shi</span>
         <span class="paper-venue">ECCV 2022</span>
         <div class="paper-links">
             <a href="https://ci.idm.pku.edu.cn/Weng_ECCV22g.pdf">[PDF]</a>
@@ -298,7 +327,7 @@
     
     <div class="paper-item">
         <span class="paper-title">L-CoDe: Language-based Colorization using Color-object Decoupled Conditions</span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Hao Wu*, Zheng Chang, Jiajun Tang, Si Li, Boxin Shi</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Hao Wu<sup>†</sup>, Zheng Chang, Jiajun Tang, Si Li, Boxin Shi</span>
         <span class="paper-venue">AAAI 2022</span>
         <div class="paper-links">
             <a href="https://ci.idm.pku.edu.cn/Weng_AAAI22.pdf">[PDF]</a>
@@ -311,7 +340,7 @@
 
     <div class="paper-item">
         <span class="paper-title">OpenCIR: Conditional Image Repainting with Open Condition Mixture</span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Xiaocheng Gong*, Haojie Zheng*, Xinlong Wang, Si Li, Boxin Shi</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Xiaocheng Gong<sup>†</sup>, Haojie Zheng<sup>†</sup>, Xinlong Wang, Si Li, Boxin Shi</span>
         <span class="paper-venue">TPAMI 2025</span>
         <div class="paper-links"><a href="https://ieeexplore.ieee.org/document/11122618">[PDF]</a></div>
     </div>
@@ -332,7 +361,7 @@
 
     <div class="paper-item">
         <span class="paper-title">UniCoRN: A Unified Conditional Image Repainting Network</span>
-        <span class="paper-author">Jimeng Sun*, <b>Shuchen Weng</b>*, Zheng Chang, Si Li, Boxin Shi</span>
+        <span class="paper-author">Jimeng Sun<sup>†</sup>, <b>Shuchen Weng</b><sup>†</sup>, Zheng Chang, Si Li, Boxin Shi</span>
         <span class="paper-venue">CVPR 2022</span>
         <div class="paper-links">
             <a href="https://ci.idm.pku.edu.cn/Weng_CVPR22c.pdf">[PDF]</a>
@@ -352,7 +381,7 @@
 
     <div class="paper-item">
         <span class="paper-title">MISC: Multi-condition Injection and Spatially-adaptive Compositing for Conditional Person Image Synthesis</span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Wenbo Li*, Dawei Li, Hongxia Jin, Boxin Shi</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Wenbo Li<sup>†</sup>, Dawei Li, Hongxia Jin, Boxin Shi</span>
         <span class="paper-venue">CVPR 2020</span>
         <div class="paper-links">
             <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Weng_MISC_Multi-Condition_Injection_and_Spatially-Adaptive_Compositing_for_Conditional_Person_Image_CVPR_2020_paper.pdf">[PDF]</a>
@@ -371,7 +400,7 @@
 
     <div class="paper-item">
         <span class="paper-title">Dual-stream CNN for Structured Time Series Classification</span>
-        <span class="paper-author"><b>Shuchen Weng</b>*, Wenbo Li*, Yi Zhang, Siwei Lyu</span>
+        <span class="paper-author"><b>Shuchen Weng</b><sup>†</sup>, Wenbo Li<sup>†</sup>, Yi Zhang, Siwei Lyu</span>
         <span class="paper-venue">ICASSP 2019</span>
         <div class="paper-links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682410">[PDF]</a></div>
     </div>
